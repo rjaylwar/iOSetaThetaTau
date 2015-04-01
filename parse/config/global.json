@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "eta theta tau"
+        }, 
+        "eta theta tau": {
+            "applicationId": "vZKXFYYVYzIkptBQ4cgCHQo6abYAXS9ip7YDVhBo", 
+            "masterKey": "EqHTnqoZsaOJ19WKosreE1xiG90fru6nYUc6pUC1"
+        }
+    }
+}
